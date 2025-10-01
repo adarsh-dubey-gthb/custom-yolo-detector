@@ -1,5 +1,5 @@
 # Custom Object Detector using YOLOv8
-Visit this link to see the video demostration - https://notebooklm.google.com/notebook/4a62bfc1-020a-49e6-975c-153eddfa9162?artifactId=c3f1ff51-e0b9-4689-9f75-ce665ac6dd69
+Visit this link to see the video demonstration - https://notebooklm.google.com/notebook/4a62bfc1-020a-49e6-975c-153eddfa9162?artifactId=c3f1ff51-e0b9-4689-9f75-ce665ac6dd69
 This project is a practical demonstration of fine-tuning a pre-trained **YOLOv8** model to detect custom objects. The model is trained on a small, custom dataset to identify specific items, showcasing the entire workflow from data annotation to inference.
 
 
