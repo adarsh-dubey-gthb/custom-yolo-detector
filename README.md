@@ -53,5 +53,5 @@ Follow these steps to set up the project locally.
 
 **1. Clone the repository:**
 ```bash
-git clone [[https://github.com/your-username/custom-yolo-detector.git](https://github.com/your-username/custom-yolo-detector.git](https://github.com/adarsh-dubey-gthb/custom-yolo-detector.git))
+git clone [https://github.com/adarsh-dubey-gthb/custom-yolo-detector.git]
 cd custom-yolo-detector
